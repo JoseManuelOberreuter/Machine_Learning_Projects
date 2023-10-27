@@ -1,0 +1,2 @@
+# Machine_Learning_Projects
+ repository with different directories which have different machine learning projects. Here is a list of the completed projects and those that I will be updating: 1. Flower classification using the Iris dataset. 2. Home price prediction based on historical data. 3. Image classification of handwritten digits (MNIST dataset). 4. Movie or music recommendation system. 5. Spam classification using natural language processing.
